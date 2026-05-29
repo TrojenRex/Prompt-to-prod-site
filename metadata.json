@@ -1,0 +1,6 @@
+{
+  "name": "Prompt-to-Product Challenge 2026",
+  "description": "Official event website of Prompt-to-Product Challenge 2026 organized by GDG On Campus – Budge Budge Institute of Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
